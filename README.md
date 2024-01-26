@@ -1,6 +1,9 @@
 # nanowire-magnetization-prediction
 The data source repository for the paper: "Detection of sinusoidal magnetization in NiFe nanowire using Random Forest and Extra Trees"
 
+For further information, kindly connect to the corresponding author through the following email:
+- **Samarthya Lykamanuella** [642022006@student.uksw.edu](mailto:642022006@student.uksw.edu)
+
 ## `step-01_oommf-script-generation`
 In this folder, both the Python scripts used to generate the MIF files as well as the generated MIF files are presented.
 
